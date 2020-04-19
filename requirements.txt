@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+matplotlib.pyplot
+
+statsmodels.stats.proportion
+matplotlib.backends.backend_pdf
+
+voila
