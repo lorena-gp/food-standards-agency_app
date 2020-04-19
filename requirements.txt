@@ -5,5 +5,5 @@ matplotlib
 
 statsmodels
 
-
+ipywidgets
 voila
